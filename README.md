@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prostituto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=51&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kayan Costa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=51&descAlign=50" alt="header"/>
 </div>
 
 <div align="center">
@@ -11,16 +11,21 @@
 
 ---
 
-### 📊 Stats of Irrelevance
+### 📊 Kayan's GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prostituto&theme=dracula" alt="GitHub Profile Summary" />
+</div>
 
 <div align="center">
 
 | **Atividade do GitHub** | **Contar** |
 |:------------------------:|:----------:|
-| 📝 Total de Compromissos | ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=commits&query=%24.commits&url=https://api-git-master-bdougie.vercel.app/api/github-user-streak?user=Prostituto&style=flat-square&logo=github) |
-| 🔀 Total de PRs | ![PRs](https://img.shields.io/badge/dynamic/json?color=green&label=pull%20requests&query=%24.pullRequests&url=https://api-git-master-bdougie.vercel.app/api/github-contributions?user=Prostituto&style=flat-square&logo=github) |
-| 🐛 Problemas Totais | ![Issues](https://img.shields.io/badge/dynamic/json?color=red&label=issues&query=%24.issues&url=https://api-git-master-bdougie.vercel.app/api/github-contributions?user=Prostituto&style=flat-square&logo=github) |
-| ⭐ Estrelas | ![Stars](https://img.shields.io/github/stars/Prostituto?affiliations=OWNER&style=flat-square&color=yellow&logo=github) |
+| 📝 Total de Commits | ![](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=343940&color=blue&label=&query=$&url=https://github-readme-stats.vercel.app/api?username=Prostituto%26show_icons=true&logo=github&suffix=+commits) |
+| 🔀 Total de PRs | ![](https://img.shields.io/badge/Pull_Requests-Check_Profile-green?style=flat-square&logo=github) |
+| 🐛 Problemas Totais | ![](https://img.shields.io/badge/Issues-Check_Profile-red?style=flat-square&logo=github) |
+| ⭐ Estrelas | ![](https://img.shields.io/github/stars/Prostituto?style=flat-square&color=yellow&logo=github&label=) |
+| 🏆 Contributed to | ![](https://img.shields.io/badge/Repositories-Multiple-blueviolet?style=flat-square&logo=github) |
 
 </div>
 
@@ -28,12 +33,20 @@
 
 ### Languages
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prostituto&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp&logoColor=239120)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
+
+</div>
 
 ### Technologies
 
