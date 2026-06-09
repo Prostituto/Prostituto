@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prostituto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=51&descAlign=50" alt="header"/>
 </div>
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kayan-costa-a78085120/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/kayanbarreto)
+
+</div>
+
 ---
 
 ### 📊 Stats of Irrelevance
