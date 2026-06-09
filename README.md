@@ -65,3 +65,7 @@
 <p align="center">
   <i>💼 Open to collaborating on interesting projects</i>
 </p>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRxMnVkOHVwMXd3eGd3b3k0NWR3c3JzbW55YTNxb25nb2U1YXd4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="600" alt="coding gif"/>
+</div>
