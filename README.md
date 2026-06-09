@@ -1,5 +1,23 @@
-<!-- [![](profile.gif)](https://github.com/Prostituto) -->
-<!-- Adicione seu GIF aqui! -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prostituto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=51&descAlign=50" alt="header"/>
+</div>
+
+---
+
+### 📊 Stats of Irrelevance
+
+<div align="center">
+
+| **GitHub Activity** | **Count** |
+|:-------------------:|:---------:|
+| 📝 Total Commits | ![Commits](https://img.shields.io/github/commit-activity/y/Prostituto/Prostituto?style=flat-square&color=blue) |
+| 🔀 Total PRs | ![PRs](https://img.shields.io/github/issues-pr/Prostituto/Prostituto?style=flat-square&color=green) |
+| 🐛 Total Issues | ![Issues](https://img.shields.io/github/issues/Prostituto/Prostituto?style=flat-square&color=red) |
+| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/Prostituto?style=flat-square&color=yellow) |
+
+</div>
+
+---
 
 ### Languages
 
