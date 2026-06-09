@@ -15,12 +15,12 @@
 
 <div align="center">
 
-| **GitHub Activity** | **Count** |
-|:-------------------:|:---------:|
-| 📝 Total Commits | ![Commits](https://img.shields.io/github/commit-activity/y/Prostituto/Prostituto?style=flat-square&color=blue) |
-| 🔀 Total PRs | ![PRs](https://img.shields.io/github/issues-pr/Prostituto/Prostituto?style=flat-square&color=green) |
-| 🐛 Total Issues | ![Issues](https://img.shields.io/github/issues/Prostituto/Prostituto?style=flat-square&color=red) |
-| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/Prostituto?style=flat-square&color=yellow) |
+| **Atividade do GitHub** | **Contar** |
+|:------------------------:|:----------:|
+| 📝 Total de Compromissos | ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=commits&query=%24.commits&url=https://api-git-master-bdougie.vercel.app/api/github-user-streak?user=Prostituto&style=flat-square&logo=github) |
+| 🔀 Total de PRs | ![PRs](https://img.shields.io/badge/dynamic/json?color=green&label=pull%20requests&query=%24.pullRequests&url=https://api-git-master-bdougie.vercel.app/api/github-contributions?user=Prostituto&style=flat-square&logo=github) |
+| 🐛 Problemas Totais | ![Issues](https://img.shields.io/badge/dynamic/json?color=red&label=issues&query=%24.issues&url=https://api-git-master-bdougie.vercel.app/api/github-contributions?user=Prostituto&style=flat-square&logo=github) |
+| ⭐ Estrelas | ![Stars](https://img.shields.io/github/stars/Prostituto?affiliations=OWNER&style=flat-square&color=yellow&logo=github) |
 
 </div>
 
